@@ -11,4 +11,4 @@ Projects for proof of concepts
 
 `score.java` determines highest scoring student in class with user input for student names and grades
 
-`numbers.java` reads an unknown amount of integers, determines how many negative/positive integers there are, takes sum of all numbers, and determines average
+`numbers.java` reads an unknown amount of integers, determines how many negative/positive integers there are, takes sum of all numbers, and calculates average
