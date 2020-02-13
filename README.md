@@ -6,3 +6,5 @@ Projects for proof of concepts
 `days_month.java` takes a month and year from user input and displays amt. of days that year 
 
 `check_repeats.java` takes an unknown amount of integers and reports how many times each number repeats
+
+`coord_plane.java` takes an (x,y) coordinate and determines which quadrant it falls in
