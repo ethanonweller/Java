@@ -8,3 +8,5 @@ Projects for proof of concepts
 `check_repeats.java` takes an unknown amount of integers and reports how many times each number repeats
 
 `coord_plane.java` takes an (x,y) coordinate and determines which quadrant it falls in
+
+`score.java` determines highest scoring student in class with user input for student names and grades
