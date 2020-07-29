@@ -2,8 +2,6 @@
 
 This program allows for 'n' number of students to be enrolled in 'n' number of classes. Each class costs **$600**
 
-Each student has their first/last name, grade, classes enrolled, and tuition balance saved under their name
+Each student has their first/last name, grade, classes enrolled, and tuition balance saved under their account
 
 A student can make a payment against their tuition when enrolling in classes
-
-This is an object oriented program
